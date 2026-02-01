@@ -42,7 +42,6 @@ Raw network data was cleaned and transformed. Special attention was paid to the 
 
 ## 📂 File Structure
 * `NIDS Analysis.ipynb`: The main Jupyter Notebook containing the full end-to-end pipeline (EDA, Preprocessing, Modelling, Evaluation).
-* `data/`: Folder containing the UNSW-NB15 training and testing CSVs.
 
 ## 🚀 Future Improvements
 * Experimenting with Deep Learning (LSTM/CNN) to better capture sequential patterns in "stealthy" attacks.
