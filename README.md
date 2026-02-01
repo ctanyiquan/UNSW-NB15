@@ -41,7 +41,7 @@ Raw network data was cleaned and transformed. Special attention was paid to the 
 | **Multi-Class (Track B)** | 77% | **F1 (Generic): 0.90** | High accuracy on volumetric attacks (DoS, Fuzzers); struggle with stealthy attacks (Backdoors). |
 
 ## 📂 File Structure
-* `NIDS_Analysis.ipynb`: The main Jupyter Notebook containing the full end-to-end pipeline (EDA, Preprocessing, Modelling, Evaluation).
+* `NIDS Analysis.ipynb`: The main Jupyter Notebook containing the full end-to-end pipeline (EDA, Preprocessing, Modelling, Evaluation).
 * `data/`: Folder containing the UNSW-NB15 training and testing CSVs.
 
 ## 🚀 Future Improvements
